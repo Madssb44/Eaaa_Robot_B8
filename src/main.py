@@ -1,21 +1,22 @@
-## main file for controlling the car
-import web
-import gc 
+# main file for running the car 
+
+#Importing modules 
+import movement 
+import sensors 
+import modes 
+from machine import Pin
+from time import sleep_ms 
 
 
-def init():
-    while True:
-        try:
-            import webrepl_setup
-        
-        finally:
-            web.stop_server
-            web.disconnect_wifi
-            print('test done')
+def ready_indicator():
+    led = Pin("LED", Pin.OUT)
+    for i in range(5)
+        led.on()
+        sleep_ms(500)
+        led.off() 
+        sleep_ms(500)
 
+ready_indicator() 
 
-
-
-
-
-init()
+def main():
+    pass 
