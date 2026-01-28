@@ -1,0 +1,20 @@
+user requirements 
+
+We need to make a robot car that can compleate some challenges set 
+
+
+Our requirements  
+
+what do we need to be able to compleate the challenges
+
+A car what can drive both in manual and automatic mode 
+
+to be able to push creats 
+
+to follow a wall 
+
+to shift modes
+
+to have a mode for each challenge we need to compleate 
+
+
