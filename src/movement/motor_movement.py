@@ -22,7 +22,8 @@ class Motor:
     def go_back(self, speed):
 
 
-    def turn_right(self):
+    def turn_righ, Pin.OUT, value=1t(self):
+        
 
 
     def turn_left(self):

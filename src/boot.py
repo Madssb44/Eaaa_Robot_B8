@@ -11,11 +11,12 @@ wlan.active(True)
 
 #setting hostname for pico 
 wlan.config(hostname="B8 pico")
- 
+     
 #Connecting to the network 
 wlan.connect("ITEK 1st","itekf25v")
 
 #starting webrepl 
 webrepl.start(password="1234")
+
 
 
